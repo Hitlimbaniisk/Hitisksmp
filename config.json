@@ -1,0 +1,9 @@
+{
+	"ip":"Iam_alive.aternos.me",
+	"port": 25565
+	"name": "afkbotplzignore",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (Hitisk@smp(remember_no_spaces)) (Hitisk@smp(remember_no_spaces))",
+	"login-cmd":"/login (Hitisk@smp)"
+}
